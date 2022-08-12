@@ -1,0 +1,19 @@
+{
+    "devtools_port": 9090,
+    "startup_app": {
+        "name": true,
+        "description": "OpenFin POC",
+        "url": "http://localhost:8080/tradeticket",
+        "uuid": "trade-ticket",
+        "autoShow": true
+    },
+    "runtime": {
+        "arguments": "",
+        "version": "beta"
+    },
+    "shortcut": {
+        "company": true,
+        "description": true,
+        "name": true
+    }
+}

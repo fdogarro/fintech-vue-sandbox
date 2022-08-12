@@ -1,0 +1,18 @@
+{
+    "startup_app": {
+        "name": "Bookmon",
+        "description": "OpenFin POC",
+        "url": "https://lightpoint-demo.herokuapp.com/",
+        "uuid": "Bookmon Demo",
+        "autoShow": true
+    },
+    "runtime": {
+        "arguments": "",
+        "version": "beta"
+    },
+    "shortcut": {
+        "company": "Lightpoint",
+        "description": "Lightpoint",
+        "name": "Lightpoint"
+    }
+}
